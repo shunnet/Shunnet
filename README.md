@@ -10,6 +10,6 @@
   <a href="https://x.com/XShunnet"><img src="https://img.shields.io/badge/X-XShunnet-000000?style=flat&logo=x&logoColor=white" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/shunnet"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=shunnet&layout=compact&theme=github" /></a>
-  <a href="https://github.com/shunnet"><img src="https://github-stats-extended.vercel.app/api?username=shunnet&hide=issues&theme=github&rank_icon=percentile&line_height=24" /></a>
+  <a href="https://github.com/shunnet"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=shunnet&layout=compact&theme=radical" /></a>
+  <a href="https://github.com/shunnet"><img src="https://github-stats-extended.vercel.app/api?username=shunnet&hide=issues&rank_icon=percentile&line_height=24&theme=radical" /></a>
 </p>
