@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ⚡ <strong><a href="https://www.snet.cn/">Snet</a> 作者</strong> · 专注：<strong>工业物联 × .NET × 开源</strong><br/>
+  🥰 <strong><a href="https://www.snet.cn/">Snet</a> 作者</strong> · 专注👉<strong>工业物联 × .NET × 开源</strong><br/>
 </p>
 
 <p align="center">
