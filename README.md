@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.snet.cn/"><img src="https://img.shields.io/static/v1?label=&message=工业通信&logo=icloud&logoColor=white&labelColor=005A9E&color=168BD2"></a>
-  <a href="https://www.snet.cn/protocols"><img src="https://img.shields.io/static/v1?label=&message=数据采集&logo=databricks&logoColor=white&labelColor=D95700&color=FF7A18"></a>
-  <a href="https://www.snet.cn/middleware"><img src="https://img.shields.io/static/v1?label=&message=消息通信&logo=apachekafka&logoColor=white&labelColor=484F58&color=6E7681"></a>
-  <a href="https://www.nuget.org/profiles/Shun"><img src="https://img.shields.io/static/v1?label=&message=插件生态&logo=nuget&logoColor=white&labelColor=5B3CC4&color=8064E8"></a>
+  <a href="https://www.snet.cn/"><img src="https://img.shields.io/static/v1?label=&message=%E5%B7%A5%E4%B8%9A%E9%80%9A%E4%BF%A1&logo=icloud&logoColor=white&labelColor=005A9E&color=168BD2"></a>
+  <a href="https://www.snet.cn/protocols"><img src="https://img.shields.io/static/v1?label=&message=%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86&logo=databricks&logoColor=white&labelColor=D95700&color=FF7A18"></a>
+  <a href="https://www.snet.cn/middleware"><img src="https://img.shields.io/static/v1?label=&message=%E6%B6%88%E6%81%AF%E9%80%9A%E4%BF%A1&logo=apachekafka&logoColor=white&labelColor=484F58&color=6E7681"></a>
+  <a href="https://www.nuget.org/profiles/Shun"><img src="https://img.shields.io/static/v1?label=&message=%E6%8F%92%E4%BB%B6%E7%94%9F%E6%80%81&logo=nuget&logoColor=white&labelColor=5B3CC4&color=8064E8"></a>
   <a href="https://github.com/shunnet/SKILLS"><img src="https://img.shields.io/static/v1?label=&message=AI%20Agent&logo=googlegemini&logoColor=white&labelColor=087F68&color=10A37F"></a>
   <img src="https://img.shields.io/static/v1?label=&message=C%23&logo=sharp&logoColor=white&labelColor=3B1F8F&color=6546C7">
   <img src="https://img.shields.io/static/v1?label=&message=Python&logo=python&logoColor=white&labelColor=285A8E&color=3977A9">
