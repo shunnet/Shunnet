@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  ⚡ <strong><a href="https://www.snet.cn/">Snet</a> 作者</strong> · 专注 <strong>工业物联 × .NET × 开源</strong><br/>
+</p>
+
+<p align="center">
   <a href="https://www.snet.cn/"><img src="https://img.shields.io/static/v1?label=&message=Snet&color=58A6FF&labelColor=1F6FEB&logo=dotnet&logoColor=white"></a>
   <a href="https://docs.snet.cn/"><img src="https://img.shields.io/static/v1?label=&message=Docs&color=6E7681&labelColor=484F58&logo=readthedocs&logoColor=white"></a>
   <a href="https://blog.snet.cn/"><img src="https://img.shields.io/static/v1?label=&message=Blog&color=FF7043&labelColor=E64A19&logo=blogger&logoColor=white"></a>
@@ -11,8 +15,13 @@
 </p>
 
 <p align="center">
-  ⚡ <strong><a href="https://www.snet.cn/">Snet</a> 统一工业通信框架作者 · 工业 IoT 开源开发者</strong><br/>
-  🔌 工业通信 · 📊 数据采集 · 📨 消息通信 · 🧩 插件架构 · 🖥️ WPF / Blazor · 🤖 AI Agent
+  <a href="https://www.snet.cn/"><img src="https://img.shields.io/static/v1?label=&message=工业通信&logo=icloud&logoColor=white&labelColor=005A9E&color=168BD2"></a>
+  <a href="https://www.snet.cn/protocols"><img src="https://img.shields.io/static/v1?label=&message=数据采集&logo=databricks&logoColor=white&labelColor=D95700&color=FF7A18"></a>
+  <a href="https://www.snet.cn/middleware"><img src="https://img.shields.io/static/v1?label=&message=消息通信&logo=apachekafka&logoColor=white&labelColor=484F58&color=6E7681"></a>
+  <a href="https://www.nuget.org/profiles/Shun"><img src="https://img.shields.io/static/v1?label=&message=插件生态&logo=nuget&logoColor=white&labelColor=5B3CC4&color=8064E8"></a>
+  <a href="https://github.com/shunnet/SKILLS"><img src="https://img.shields.io/static/v1?label=&message=AI%20Agent&logo=googlegemini&logoColor=white&labelColor=087F68&color=10A37F"></a>
+  <img src="https://img.shields.io/static/v1?label=&message=C%23&logo=sharp&logoColor=white&labelColor=3B1F8F&color=6546C7">
+  <img src="https://img.shields.io/static/v1?label=&message=Python&logo=python&logoColor=white&labelColor=285A8E&color=3977A9">
 </p>
 
 <p align="center">
