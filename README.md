@@ -2,11 +2,21 @@
 <p align="center"> 专注于 <strong>工业物联网、工业通信、.NET 与开源软件</strong> 的开发者，<strong>让设备连接与数据交互更简单</strong>
 </p>
 <p align="center">
-	<a href="https://www.snet.cn/"><img src="https://img.shields.io/badge/Snet-snet.cn-2F81F7?style=flat&logo=dotnet&logoColor=white" /></a>
-	<a href="https://docs.snet.cn/"><img src="https://img.shields.io/badge/Docs-%E6%96%87%E6%A1%A3-555555?style=flat&logo=readthedocs&logoColor=white&color=2bbc8a" /></a>
-	<a href="https://blog.snet.cn/"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
-	<a href="https://t.me/SnetTEG"><img src="https://img.shields.io/badge/T-SnetTEG-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
-	<a href="https://x.com/XShunnet"><img src="https://img.shields.io/badge/X-XShunnet-000000?style=flat&logo=x&logoColor=white" /></a>
+	<a href="https://www.snet.cn/" target="_blank">
+		<img src="https://img.shields.io/static/v1?label=&message=Snet&color=58A6FF&labelColor=1F6FEB&logo=dotnet&logoColor=white" />
+	</a>
+	<a href="https://docs.snet.cn/" target="_blank">
+		<img src="https://img.shields.io/static/v1?label=&message=Docs&color=6E7681&labelColor=484F58&logo=readthedocs&logoColor=white" />
+	</a>
+	<a href="https://blog.snet.cn/" target="_blank">
+		<img src="https://img.shields.io/static/v1?label=&message=Blog&color=FF7043&labelColor=E64A19&logo=blogger&logoColor=white" />
+	</a>
+	<a href="https://t.me/SnetTEG" target="_blank">
+		<img src="https://img.shields.io/static/v1?label=&message=SnetTEG&color=4BB4E6&labelColor=168AC1&logo=telegram&logoColor=white" />
+	</a>
+	<a href="https://x.com/XShunnet" target="_blank">
+		<img src="https://img.shields.io/static/v1?label=&message=XShunnet&color=444444&labelColor=111111&logo=x&logoColor=white" />
+	</a>
 </p>
 <p align="center">
 	<picture>
