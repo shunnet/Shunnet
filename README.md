@@ -1,6 +1,5 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=275&lines=Hey%F0%9F%91%8B%2C+I'm+Shun" /></p>
-<p align="center"> 专注于 <strong>工业物联网、工业通信、.NET 与开源软件</strong> 的开发者，<strong>让设备连接与数据交互更简单</strong>
-</p>
+<p align="center">专注于 <strong>工业物联网、工业通信、.NET 与开源软件</strong> 的开发者，<strong>让设备连接与数据交互更简单</strong></p>
 <p align="center">
 	<a href="https://www.snet.cn/" target="_blank">
 		<img src="https://img.shields.io/static/v1?label=&message=Snet&color=58A6FF&labelColor=1F6FEB&logo=dotnet&logoColor=white" />
