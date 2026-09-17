@@ -1,7 +1,7 @@
-<p  align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=275&lines=Hey%F0%9F%91%8B%2C+I'm+Shun"/></p>
-<p align="center">
-专注于 **工业物联网、工业通信、.NET 与开源软件** 的开发者，**让设备连接与数据交互更简单**
+<p  align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=275&lines=Hey%F0%9F%91%8B%2C+I'm+Shun"/>
 </p>
+<p align="center">专注于 **工业物联网、工业通信、.NET 与开源软件** 的开发者，**让设备连接与数据交互更简单**</p>
 <p  align="center">
   [![](https://img.shields.io/badge/Snet-snet.cn-2F81F7?style=flat&logo=dotnet&logoColor=white)](https://www.snet.cn/)
   [![](https://img.shields.io/badge/Docs-%E6%96%87%E6%A1%A3-555555?style=flat&logo=readthedocs&logoColor=white&color=2bbc8a)](https://docs.snet.cn/)
